@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedIn_Human_Entered_Text_Clustering_Heuristic", "LinkedIn_Human_Entered_Text_Clustering_Heuristic.csproj", "{638B31F3-C72E-48DB-8A97-795EFC646D89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{638B31F3-C72E-48DB-8A97-795EFC646D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{638B31F3-C72E-48DB-8A97-795EFC646D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{638B31F3-C72E-48DB-8A97-795EFC646D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{638B31F3-C72E-48DB-8A97-795EFC646D89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C97BDA69-B3F5-47B7-8B46-200701FE7A00}
+	EndGlobalSection
+EndGlobal
